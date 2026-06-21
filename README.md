@@ -36,6 +36,22 @@ Estudio de las topologías de interconexión empleadas en sistemas de procesamie
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Sistema con Multiples Procesadores] --> B[Redes Estaticas]
+    A --> C[Redes Dinamicas]
+    B --> D[Malla 2D/3D]
+    B --> E[Hipercubo]
+    B --> F[Arbol Fat]
+    C --> G[Crossbar Switch]
+    C --> H[Red Omega]
+    D & E & F & G & H --> I[Metricas de Rendimiento - Latencia / Ancho de banda / Biseccion BW]
+    I --> J[Comparativa por Topologia y numero de procesadores]
+    J --> K[Aplicaciones HPC - NUMA / NORMA]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
