@@ -1,3 +1,5 @@
+<div align="center">
+
 # Redes de Comunicación de Sistemas con Múltiples Procesadores
 
 ![Architecture](https://img.shields.io/badge/Arquitectura-Paralela-FF6B35?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Análisis de redes de comunicación en arquitecturas de cómputo paralelo con múltiples procesadores.
 
 ## Descripción
+
+</div>
+
+---
 
 Estudio de las topologías de interconexión empleadas en sistemas de procesamiento paralelo: redes estáticas (malla, hipercubo, árbol) y dinámicas (crossbar, omega), protocolos de comunicación entre procesadores, latencia, ancho de banda y métricas de rendimiento en arquitecturas HPC.
 
@@ -27,3 +33,12 @@ Estudio de las topologías de interconexión empleadas en sistemas de procesamie
 
 **Asignatura:** Redes de Computadores · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Máster Arquitectura de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
